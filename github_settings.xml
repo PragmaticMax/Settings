@@ -1,0 +1,6 @@
+<application>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="PragmaticMax" />
+    <option name="AUTH_TYPE" value="BASIC" />
+  </component>
+</application>
